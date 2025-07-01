@@ -1,8 +1,8 @@
 # Olá, sou Lucas Wall! 🧐📊📈💻🔍
 
 <p style="float: left;">
-  <img src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif" alt="GIF de Análise de Dados e BI" height="400em"/>
-  <img src="https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif" alt="GIF de Análise de Dados e BI" height="355em"/>
+  <img src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif" alt="GIF de Análise de Dados e BI" height="300em"/>
+  <img src="https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif" alt="GIF de Análise de Dados e BI" height="255em"/>
 </p>
 
 Sou um **Analista de Dados e BI** apaixonado por transformar dados brutos em insights estratégicos e soluções acionáveis. Com mais de 3 anos de experiência, meu foco é otimizar processos e impulsionar decisões baseadas em dados, utilizando um arsenal de ferramentas e metodologias modernas.
