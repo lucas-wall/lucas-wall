@@ -17,7 +17,7 @@
 ---
 Para detalhes completos sobre minha experiência profissional e formação, por favor, acesse meu currículo no Google Drive: 
 - [Lucas Wall - Currículo Completo](https://drive.google.com/drive/folders/1JneGcdc84t1OLc3fNH-WhK50sT7cRLSg)
-
+---
 ## 🛠️ Habilidades e Tecnologias
 
 Minhas principais habilidades e ferramentas incluem:
