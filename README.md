@@ -1,8 +1,7 @@
 # Olá, sou Lucas Wall! 🧐📊📈💻🔍
 
 <p style="float: left;">
-  <img src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif" alt="GIF de Análise de Dados e BI" height="300em"/>
-  <img src="https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif" alt="GIF de Análise de Dados e BI" height="255em"/>
+  <img src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif" alt="GIF de Análise de Dados e BI" height="500em"/>
 </p>
 
 ---
