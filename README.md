@@ -1,8 +1,10 @@
 # Olá, sou Lucas Wall! 🧐📊📈💻🔍
 
-<p style="float: left;">
-  <img src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif" alt="GIF de Análise de Dados e BI" height="500em"/>
-</p>
+<div align="center">
+  <p style="float: left;">
+    <img src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif" alt="GIF de Análise de Dados e BI" height="300em"/>
+  </p>
+</div>
 
 ---
 🎯 **Analista de Dados** com +3 anos de experiência transformando dados em decisões estratégicas.
@@ -61,11 +63,4 @@ Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para 
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaswallbruno@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-wall1/)
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucas-wall&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-wall&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
