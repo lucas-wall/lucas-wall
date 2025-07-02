@@ -5,6 +5,7 @@
   <img src="https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif" alt="GIF de Análise de Dados e BI" height="255em"/>
 </p>
 
+---
 🎯 **Analista de Dados** com +3 anos de experiência transformando dados em decisões estratégicas.
 
 - 💡 Tenho vivência em todo o ciclo de vida dos dados: da coleta ao insight. Atuo com **Power BI**, **Python**, **SQL** e **ETL**, com foco em performance, automação e visualização de alto impacto.  
@@ -13,6 +14,7 @@
 - 🛠️ Ferramentas e stacks principais: `Power BI`, `Python (Pandas, Seaborn, Scikit-learn)`, `SQL`, `ETL`, `Streamlit`, `MongoDB`, `Parquet`, `RPA`, `Power Apps`, `Git`.
 - 🧩 Desenvolvo projetos **end-to-end**, conectando dados brutos a insights estratégicos com storytelling e visualizações eficazes.
 
+---
 Para detalhes completos sobre minha experiência profissional e formação, por favor, acesse meu currículo no Google Drive: 
 - [Lucas Wall - Currículo Completo](https://drive.google.com/drive/folders/1JneGcdc84t1OLc3fNH-WhK50sT7cRLSg)
 
