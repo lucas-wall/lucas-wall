@@ -7,7 +7,7 @@
 </div>
 
 ---
-🎯 **Analista de Dados** com +3 anos de experiência transformando dados em decisões estratégicas.
+## 🎯 **Analista de Dados** com +3 anos de experiência transformando dados em decisões estratégicas.
 
 - 💡 Tenho vivência em todo o ciclo de vida dos dados: da coleta ao insight. Atuo com **Power BI**, **Python**, **SQL** e **ETL**, com foco em performance, automação e visualização de alto impacto.  
 - 🌎 Experiência internacional remota colaborando com equipes globais (*Volvo, Porsche Cup, John Deere*), com fluência em **inglês** e **espanhol**.  
