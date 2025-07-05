@@ -5,10 +5,10 @@
 <br>
 
 📊 &nbsp;Sou **Analista de Dados** com **+3 anos** de experiência na área.\
-🌍 &nbsp;Atuei com times globais em empresas como *Volvo, Porsche Cup* e *John Deere*.\
-🚀 &nbsp;Automatizei pipelines, otimizei e criei dashboards e relatórios estratégicos.\
-🛠️ &nbsp;Stacks principais: `Power BI`, `Python`, `SQL`, `ETL`, `MongoDB`, `Parquet`, `Git`.\
-🧩 &nbsp;Domino o ciclo completo dos dados — da coleta ao insight.\
+🌍 &nbsp;Atuei empresas globais como *Volvo, Porsche Cup* e *John Deere*.\
+🚀 &nbsp;Otimizei pipelines, dashboards e relatórios estratégicos.\
+🛠️ &nbsp;Stacks principais: `Power BI`, `Python`, `SQL`, `ETL`, `Cloud`.\
+🧩 &nbsp;Domino o ciclo completo dos dados | Da coleta ao insight.\
 💬 &nbsp;Falo fluentemente **inglês** e **espanhol**.\
 \
 📜 &nbsp;Acesse meu currículo no Google Drive:
@@ -25,7 +25,7 @@
 
 Minhas principais habilidades e ferramentas incluem:
 
-### Linguagens de Programação e Ferramentas de Análise
+### Ferramentas de Programação e Análise
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
@@ -59,7 +59,8 @@ Minhas principais habilidades e ferramentas incluem:
 ![Scrum](https://img.shields.io/badge/Scrum-7C9299?style=flat&logo=scrum&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-FC440F?style=flat&logo=kanban&logoColor=white)
 
----
+#  
+<br>
 
 ## 📬 Conecte-se Comigo
 
