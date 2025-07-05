@@ -11,10 +11,8 @@
 🧩 &nbsp;Domino o ciclo completo dos dados | Da coleta ao insight.\
 💬 &nbsp;Falo fluentemente **inglês** e **espanhol**.\
 \
-\
 📜 &nbsp;Acesse meu currículo no Google Drive:
 - [Lucas Wall - Currículo Profissional](https://drive.google.com/drive/folders/1JneGcdc84t1OLc3fNH-WhK50sT7cRLSg)
-<br>
 #  
 <br>
 
