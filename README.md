@@ -5,7 +5,7 @@
 <br>
 
 📊 &nbsp;Sou **Analista de Dados** com **+3 anos** de experiência na área.\
-🌍 &nbsp;Atuei empresas globais como *Volvo, Porsche Cup* e *John Deere*.\
+🌍 &nbsp;Atuei para empresas globais como *Volvo, Porsche Cup* e *John Deere*.\
 🚀 &nbsp;Otimizei pipelines, dashboards e relatórios estratégicos.\
 🛠️ &nbsp;Stacks principais: `Power BI`, `Python`, `SQL`, `ETL`, `Cloud`.\
 🧩 &nbsp;Domino o ciclo completo dos dados | Da coleta ao insight.\
