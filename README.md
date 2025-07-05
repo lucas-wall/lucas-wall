@@ -1,66 +1,69 @@
 # Olá, sou Lucas Wall! 🧐📊📈💻🔍
 
-<div align="center">
-  <p style="float: left;">
-    <img src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif" alt="GIF de Análise de Dados e BI" height="300em"/>
-  </p>
-</div>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/2e/e6/99/2ee6998e34c3e2eff7b894c66cfc5267.jpg" width="400" height="250"/>
+<br>
+<br>
 
----
-## 🎯 **Analista de Dados** com +3 anos de experiência transformando dados em decisões estratégicas.
+📊 &nbsp;Sou **Analista de Dados** com **+3 anos** de experiência na área.\
+🌍 &nbsp;Atuei com times globais em empresas como *Volvo, Porsche Cup* e *John Deere*.\
+🚀 &nbsp;Automatizei pipelines, otimizei e criei dashboards e relatórios estratégicos.\
+🛠️ &nbsp;Stacks principais: `Power BI`, `Python`, `SQL`, `ETL`, `MongoDB`, `Parquet`, `Git`.\
+🧩 &nbsp;Domino o ciclo completo dos dados — da coleta ao insight.\
+💬 &nbsp;Falo fluentemente **inglês** e **espanhol**.\
+\
+📜 &nbsp;Acesse meu currículo no Google Drive:
+- [Lucas Wall - Currículo Profissional](https://drive.google.com/drive/folders/1JneGcdc84t1OLc3fNH-WhK50sT7cRLSg)
 
-- 💡 Tenho vivência em todo o ciclo de vida dos dados: da coleta ao insight. Atuo com **Power BI**, **Python**, **SQL** e **ETL**, com foco em performance, automação e visualização de alto impacto.  
-- 🌎 Experiência internacional remota colaborando com equipes globais (*Volvo, Porsche Cup, John Deere*), com fluência em **inglês** e **espanhol**.  
-- 🚀 Automatizei pipelines de dados, otimizei relatórios que monitoram bilhões em investimentos públicos e desenvolvi dashboards que aumentaram receitas e produtividade em projetos reais.  
-- 🛠️ Ferramentas e stacks principais: `Power BI`, `Python (Pandas, Seaborn, Scikit-learn)`, `SQL`, `ETL`, `Streamlit`, `MongoDB`, `Parquet`, `RPA`, `Power Apps`, `Git`.
-- 🧩 Desenvolvo projetos **end-to-end**, conectando dados brutos a insights estratégicos com storytelling e visualizações eficazes.
+#  
+<br>
 
----
-Para detalhes completos sobre minha experiência profissional e formação, por favor, acesse meu currículo no Google Drive: 
-- [Lucas Wall - Currículo Completo](https://drive.google.com/drive/folders/1JneGcdc84t1OLc3fNH-WhK50sT7cRLSg)
----
 ## 🛠️ Habilidades e Tecnologias
+
+<div align="right">
+  <img align="right" src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" width="500" height="600"/>
+</div>
 
 Minhas principais habilidades e ferramentas incluem:
 
 ### Linguagens de Programação e Ferramentas de Análise
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=seaborn&logoColor=white)
-![plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)\
+![SQL](https://img.shields.io/badge/SQL-005C84?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)\
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
+![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=flat&logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) 
 
 ### Outras Tecnologias
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat&logo=scrapy&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)\
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=flat&logo=HuggingFace&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=Databricks&logoColor=white)
 
 ### Business Intelligence & ETL
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)	
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-60A839?style=for-the-badge&logo=data-transfer&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)\
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-60A839?style=flat&logo=data-transfer&logoColor=white)
 
 ### Metodologias
 
-![Scrum](https://img.shields.io/badge/Scrum-0077B5?style=for-the-badge&logo=scrum&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-0077B5?style=for-the-badge&logo=kanban&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-7C9299?style=flat&logo=scrum&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-FC440F?style=flat&logo=kanban&logoColor=white)
 
-
-
+---
 
 ## 📬 Conecte-se Comigo
 
 Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para me contatar:
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaswallbruno@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-wall1/)
-
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucaswallbruno@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-wall1/)
