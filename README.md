@@ -21,7 +21,7 @@
 ## 🛠️ Habilidades e Tecnologias
 
 <div align="right">
-  <img align="right" src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" width="500" height="600"/>
+  <img align="right" src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" width="600" height="700"/>
 </div>
 
 Minhas principais habilidades e ferramentas incluem:
@@ -59,7 +59,6 @@ Minhas principais habilidades e ferramentas incluem:
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 - ![Scrum](https://img.shields.io/badge/Scrum-7C9299?style=flat&logo=scrum&logoColor=white)
 - ![Kanban](https://img.shields.io/badge/Kanban-FC440F?style=flat&logo=kanban&logoColor=white)
-<br>
 
 #  
 <br>
