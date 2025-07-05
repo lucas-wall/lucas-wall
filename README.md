@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4EA94B&size=35&center=false&vCenter=true&width=1000&lines=Olá,+sou+Lucas+Wall!+∠↝)](https://git.io/typing-svg)
-
+#  
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/2e/e6/99/2ee6998e34c3e2eff7b894c66cfc5267.jpg" width="400" height="250"/>
 <br>
 <br>
@@ -59,6 +59,7 @@ Minhas principais habilidades e ferramentas incluem:
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-7C9299?style=flat&logo=scrum&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-FC440F?style=flat&logo=kanban&logoColor=white)
+<br>
 
 #  
 <br>
