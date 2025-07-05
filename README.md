@@ -60,7 +60,6 @@ Minhas principais habilidades e ferramentas incluem:
 ![Scrum](https://img.shields.io/badge/Scrum-7C9299?style=flat&logo=scrum&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-FC440F?style=flat&logo=kanban&logoColor=white)
 
-
 #  
 <br>
 
