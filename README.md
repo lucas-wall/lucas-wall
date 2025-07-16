@@ -63,9 +63,13 @@ Minhas principais habilidades e ferramentas incluem:
 #  
 <br>
 
-## 📬 Conecte-se Comigo
+###
 
-Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para me contatar:
+## 📬 Conecte-se Comigo
+<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=qk5obrdjy0mtgrl7a1vev1sqz&count=2&unique=true" alt="Spotify recently played"/>
+
+Estou sempre aberto a novas conexões e oportunidades\
+Sinta-se à vontade para me contatar:
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucaswallbruno@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-wall1/)
