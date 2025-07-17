@@ -17,6 +17,7 @@
 
 #  
 <br>
+
 ## 🛠️ Habilidades e Tecnologias
 
 <div align="right">
@@ -72,4 +73,6 @@ Minhas principais habilidades e ferramentas incluem:
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=lucaswallbruno@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-wall1/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-4FCE5D?style=flat&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send/?phone=556182082144&text=Ol%C3%A1%2C+Fiquei+interessado+em+saber+mais+sobre+como+os+Dados+podem+RESOLVER+meus+PROBLEMAS.&type=phone_number&app_absent=0)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-4FCE5D?style=flat&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send/?phone=556182082144&text=Ol%C3%A1%2C+Fiquei+interessado+em+saber+mais+sobre+como+os+Dados+podem+RESOLVER+meus+PROBLEMAS.&type=phone_number&app_absent=0)\
+<br>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=lucas-wall.lucas-wall&"/>
