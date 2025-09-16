@@ -66,7 +66,6 @@ Minhas principais habilidades e ferramentas incluem:
 ###
 
 ## 📬 Conecte-se Comigo
-<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=qk5obrdjy0mtgrl7a1vev1sqz&count=1&unique=true" alt="Spotify recently played"/>
 
 &nbsp;***Estou sempre aberto a novas conexões e oportunidades***.\
 &nbsp;Sinta-se à vontade para me contatar:
