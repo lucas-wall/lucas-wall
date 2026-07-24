@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=4EA94B&size=45&center=false&vCenter=true&width=1000&lines=Olá,+sou+Lucas+Wall!+∠↝)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=4EA94B&size=45&center=false&vCenter=true&width=1000&lines=Welcome+to+my+Github!+~Lucas+Wall+∠↝)
 #  
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/2e/e6/99/2ee6998e34c3e2eff7b894c66cfc5267.jpg" width="400" height="250"/>
 <br>
