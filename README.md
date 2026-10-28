@@ -28,48 +28,62 @@
 
 <br>
 
-## 🛠️ Skills and Technologies
+## 🛠️ Stack
 
-<div align="right">
-  <img align="right" src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" width="500" height="600"/>
-</div>
+### Microsoft Fabric
+<table><tr>
+<td align="center" width="110"><img src="https://api.iconify.design/thesvg-color/microsoft-fabric.svg" width="40" height="40" alt="Fabric"/><br><sub><b>Fabric</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/thesvg-color/microsoft-onelake.svg" width="40" height="40" alt="OneLake"/><br><sub><b>OneLake</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/thesvg-color/microsoft-fabric-data-engineering.svg" width="40" height="40" alt="Lakehouse · Notebooks"/><br><sub><b>Lakehouse · Notebooks</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/thesvg-color/microsoft-fabric-data-factory.svg" width="40" height="40" alt="Data Factory · Pipelines"/><br><sub><b>Data Factory · Pipelines</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/fluent-mdl2/dataflows.svg?color=%230078D4" width="40" height="40" alt="Dataflows Gen2"/><br><sub><b>Dataflows Gen2</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/thesvg-color/microsoft-fabric-data-warehouse.svg" width="40" height="40" alt="Warehouse"/><br><sub><b>Warehouse</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/logos/microsoft-power-bi.svg" width="40" height="40" alt="Power BI · Semantic Models"/><br><sub><b>Power BI · Semantic Models</b></sub></td>
+</tr></table>
 
-### Data Platforms and Cloud
-
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=Databricks&logoColor=white)\
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+### Sources and Integration
+<table><tr>
+<td align="center" width="110"><img src="https://api.iconify.design/logos/oracle.svg" width="40" height="40" alt="Oracle Cloud (OCI)"/><br><sub><b>Oracle Cloud (OCI)</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/logos/snowflake-icon.svg" width="40" height="40" alt="Snowflake"/><br><sub><b>Snowflake</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/carbon/api-1.svg?color=%236BA539" width="40" height="40" alt="REST APIs"/><br><sub><b>REST APIs</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/devicon-plain/microsoftsqlserver.svg?color=%23CC2927" width="40" height="40" alt="SQL Server"/><br><sub><b>SQL Server</b></sub></td>
+</tr></table>
 
 ### Engineering
+<table><tr>
+<td align="center" width="110"><img src="https://api.iconify.design/logos/python.svg" width="40" height="40" alt="Python"/><br><sub><b>Python</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/logos/apache-spark.svg" width="40" height="40" alt="PySpark"/><br><sub><b>PySpark</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/carbon/sql.svg?color=%23CC2927" width="40" height="40" alt="SQL · T-SQL"/><br><sub><b>SQL · T-SQL</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/mdi/delta.svg?color=%2300ADD4" width="40" height="40" alt="Delta Lake"/><br><sub><b>Delta Lake</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/thesvg-color/apache-parquet.svg" width="40" height="40" alt="Parquet"/><br><sub><b>Parquet</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/devicon/duckdb.svg" width="40" height="40" alt="DuckDB"/><br><sub><b>DuckDB</b></sub></td>
+</tr></table>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat&logo=delta&logoColor=white)\
-![SQL](https://img.shields.io/badge/SQL-005C84?style=flat&logo=mysql&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)\
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+### Governance and Security
+<table><tr>
+<td align="center" width="110"><img src="https://api.iconify.design/iconmind/key-vault-duotone-bold.svg?color=%230078D4" width="40" height="40" alt="Key Vault"/><br><sub><b>Key Vault</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/selfhst/microsoft-entra-id.svg" width="40" height="40" alt="Entra ID · RBAC"/><br><sub><b>Entra ID · RBAC</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/fluent/shield-lock-24-filled.svg?color=%23117865" width="40" height="40" alt="RLS"/><br><sub><b>RLS</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/thesvg-color/microsoft-purview.svg" width="40" height="40" alt="Purview"/><br><sub><b>Purview</b></sub></td>
+</tr></table>
 
-### BI and Analytics
+### DataOps and CI/CD
+<table><tr>
+<td align="center" width="110"><img src="https://api.iconify.design/logos/git-icon.svg" width="40" height="40" alt="Git"/><br><sub><b>Git</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/logos/github-actions.svg" width="40" height="40" alt="GitHub Actions"/><br><sub><b>GitHub Actions</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/devicon/azuredevops.svg" width="40" height="40" alt="Azure DevOps"/><br><sub><b>Azure DevOps</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/logos/terraform-icon.svg" width="40" height="40" alt="Terraform"/><br><sub><b>Terraform</b></sub></td>
+</tr></table>
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)\
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
-### Ways of Working
-
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-7C9299?style=flat&logo=scrum&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-FC440F?style=flat&logo=kanban&logoColor=white)
+### Also
+<table><tr>
+<td align="center" width="110"><img src="https://api.iconify.design/logos/microsoft-azure.svg" width="40" height="40" alt="Azure"/><br><sub><b>Azure</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/logos/databricks.svg" width="40" height="40" alt="Databricks"/><br><sub><b>Databricks</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/logos/google-cloud.svg" width="40" height="40" alt="Google Cloud"/><br><sub><b>Google Cloud</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/logos/aws.svg" width="40" height="40" alt="AWS"/><br><sub><b>AWS</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/logos/tableau-icon.svg" width="40" height="40" alt="Tableau"/><br><sub><b>Tableau</b></sub></td>
+<td align="center" width="110"><img src="https://api.iconify.design/logos/jira.svg" width="40" height="40" alt="Jira"/><br><sub><b>Jira</b></sub></td>
+</tr></table>
 
 #  
 <br>
@@ -79,8 +93,10 @@
 &nbsp;***Always open to new connections and opportunities.***\
 &nbsp;Feel free to reach out:
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=lucaswallbruno@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-wall1/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-4FCE5D?style=flat&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send/?phone=556182082144&text=Hi+Lucas%2C+I+found+your+GitHub+and+would+like+to+talk+about+data+engineering.&type=phone_number&app_absent=0)\
+<table><tr>
+<td align="center" width="110"><a href="https://mail.google.com/mail/?view=cm&fs=1&to=lucaswallbruno@gmail.com"><img src="https://api.iconify.design/logos/google-gmail.svg" width="36" height="36" alt="Email"/><br><sub><b>Email</b></sub></a></td>
+<td align="center" width="110"><a href="https://www.linkedin.com/in/lucas-wall1/"><img src="https://api.iconify.design/logos/linkedin-icon.svg" width="36" height="36" alt="LinkedIn"/><br><sub><b>LinkedIn</b></sub></a></td>
+<td align="center" width="110"><a href="https://api.whatsapp.com/send/?phone=556182082144&text=Hi+Lucas%2C+I+found+your+GitHub+and+would+like+to+talk+about+data+engineering.&type=phone_number&app_absent=0"><img src="https://api.iconify.design/logos/whatsapp-icon.svg" width="36" height="36" alt="WhatsApp"/><br><sub><b>WhatsApp</b></sub></a></td>
+</tr></table>
 <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=lucas-wall.lucas-wall&"/>
