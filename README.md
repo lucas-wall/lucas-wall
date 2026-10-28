@@ -30,60 +30,14 @@
 
 ## 🛠️ Stack
 
-### Microsoft Fabric
-<table><tr>
-<td align="center" width="110"><img src="https://api.iconify.design/thesvg-color/microsoft-fabric.svg" width="40" height="40" alt="Fabric"/><br><sub><b>Fabric</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/thesvg-color/microsoft-onelake.svg" width="40" height="40" alt="OneLake"/><br><sub><b>OneLake</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/thesvg-color/microsoft-fabric-data-engineering.svg" width="40" height="40" alt="Lakehouse · Notebooks"/><br><sub><b>Lakehouse · Notebooks</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/thesvg-color/microsoft-fabric-data-factory.svg" width="40" height="40" alt="Data Factory · Pipelines"/><br><sub><b>Data Factory · Pipelines</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/fluent-mdl2/dataflows.svg?color=%230078D4" width="40" height="40" alt="Dataflows Gen2"/><br><sub><b>Dataflows Gen2</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/thesvg-color/microsoft-fabric-data-warehouse.svg" width="40" height="40" alt="Warehouse"/><br><sub><b>Warehouse</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/logos/microsoft-power-bi.svg" width="40" height="40" alt="Power BI · Semantic Models"/><br><sub><b>Power BI · Semantic Models</b></sub></td>
-</tr></table>
-
-### Sources and Integration
-<table><tr>
-<td align="center" width="110"><img src="https://api.iconify.design/logos/oracle.svg" width="40" height="40" alt="Oracle Cloud (OCI)"/><br><sub><b>Oracle Cloud (OCI)</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/logos/snowflake-icon.svg" width="40" height="40" alt="Snowflake"/><br><sub><b>Snowflake</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/carbon/api-1.svg?color=%236BA539" width="40" height="40" alt="REST APIs"/><br><sub><b>REST APIs</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/devicon-plain/microsoftsqlserver.svg?color=%23CC2927" width="40" height="40" alt="SQL Server"/><br><sub><b>SQL Server</b></sub></td>
-</tr></table>
-
-### Engineering
-<table><tr>
-<td align="center" width="110"><img src="https://api.iconify.design/logos/python.svg" width="40" height="40" alt="Python"/><br><sub><b>Python</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/logos/apache-spark.svg" width="40" height="40" alt="PySpark"/><br><sub><b>PySpark</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/carbon/sql.svg?color=%23CC2927" width="40" height="40" alt="SQL · T-SQL"/><br><sub><b>SQL · T-SQL</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/mdi/delta.svg?color=%2300ADD4" width="40" height="40" alt="Delta Lake"/><br><sub><b>Delta Lake</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/thesvg-color/apache-parquet.svg" width="40" height="40" alt="Parquet"/><br><sub><b>Parquet</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/devicon/duckdb.svg" width="40" height="40" alt="DuckDB"/><br><sub><b>DuckDB</b></sub></td>
-</tr></table>
-
-### Governance and Security
-<table><tr>
-<td align="center" width="110"><img src="https://api.iconify.design/iconmind/key-vault-duotone-bold.svg?color=%230078D4" width="40" height="40" alt="Key Vault"/><br><sub><b>Key Vault</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/selfhst/microsoft-entra-id.svg" width="40" height="40" alt="Entra ID · RBAC"/><br><sub><b>Entra ID · RBAC</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/fluent/shield-lock-24-filled.svg?color=%23117865" width="40" height="40" alt="RLS"/><br><sub><b>RLS</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/thesvg-color/microsoft-purview.svg" width="40" height="40" alt="Purview"/><br><sub><b>Purview</b></sub></td>
-</tr></table>
-
-### DataOps and CI/CD
-<table><tr>
-<td align="center" width="110"><img src="https://api.iconify.design/logos/git-icon.svg" width="40" height="40" alt="Git"/><br><sub><b>Git</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/logos/github-actions.svg" width="40" height="40" alt="GitHub Actions"/><br><sub><b>GitHub Actions</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/devicon/azuredevops.svg" width="40" height="40" alt="Azure DevOps"/><br><sub><b>Azure DevOps</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/logos/terraform-icon.svg" width="40" height="40" alt="Terraform"/><br><sub><b>Terraform</b></sub></td>
-</tr></table>
-
-### Also
-<table><tr>
-<td align="center" width="110"><img src="https://api.iconify.design/logos/microsoft-azure.svg" width="40" height="40" alt="Azure"/><br><sub><b>Azure</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/logos/databricks.svg" width="40" height="40" alt="Databricks"/><br><sub><b>Databricks</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/logos/google-cloud.svg" width="40" height="40" alt="Google Cloud"/><br><sub><b>Google Cloud</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/logos/aws.svg" width="40" height="40" alt="AWS"/><br><sub><b>AWS</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/logos/tableau-icon.svg" width="40" height="40" alt="Tableau"/><br><sub><b>Tableau</b></sub></td>
-<td align="center" width="110"><img src="https://api.iconify.design/logos/jira.svg" width="40" height="40" alt="Jira"/><br><sub><b>Jira</b></sub></td>
-</tr></table>
+| | |
+|:--|:--|
+| <sub><b>Microsoft Fabric</b></sub> | <img src="https://api.iconify.design/thesvg-color/microsoft-fabric.svg" height="14" alt="Fabric"/> <sub>Fabric</sub> &nbsp; <img src="https://api.iconify.design/thesvg-color/microsoft-onelake.svg" height="14" alt="OneLake"/> <sub>OneLake</sub> &nbsp; <img src="https://api.iconify.design/thesvg-color/microsoft-fabric-data-engineering.svg" height="14" alt="Lakehouse"/> <sub>Lakehouse</sub> &nbsp; <img src="https://api.iconify.design/thesvg-color/microsoft-fabric-data-factory.svg" height="14" alt="Data Factory"/> <sub>Data Factory</sub> &nbsp; <img src="https://api.iconify.design/fluent-mdl2/dataflows.svg?color=%230078D4" height="14" alt="Dataflows Gen2"/> <sub>Dataflows Gen2</sub> &nbsp; <img src="https://api.iconify.design/thesvg-color/microsoft-fabric-data-warehouse.svg" height="14" alt="Warehouse"/> <sub>Warehouse</sub> &nbsp; <img src="https://api.iconify.design/logos/microsoft-power-bi.svg" height="14" alt="Power BI"/> <sub>Power BI</sub> |
+| <sub><b>Sources</b></sub> | <img src="https://api.iconify.design/logos/oracle.svg" height="14" alt="Oracle Cloud"/> <sub>Oracle Cloud</sub> &nbsp; <img src="https://api.iconify.design/logos/snowflake-icon.svg" height="14" alt="Snowflake"/> <sub>Snowflake</sub> &nbsp; <img src="https://api.iconify.design/carbon/api-1.svg?color=%236BA539" height="14" alt="REST APIs"/> <sub>REST APIs</sub> &nbsp; <img src="https://api.iconify.design/devicon-plain/microsoftsqlserver.svg?color=%23CC2927" height="14" alt="SQL Server"/> <sub>SQL Server</sub> |
+| <sub><b>Engineering</b></sub> | <img src="https://api.iconify.design/logos/python.svg" height="14" alt="Python"/> <sub>Python</sub> &nbsp; <img src="https://api.iconify.design/logos/apache-spark.svg" height="14" alt="PySpark"/> <sub>PySpark</sub> &nbsp; <img src="https://api.iconify.design/carbon/sql.svg?color=%23CC2927" height="14" alt="SQL"/> <sub>SQL</sub> &nbsp; <img src="https://api.iconify.design/mdi/delta.svg?color=%2300ADD4" height="14" alt="Delta Lake"/> <sub>Delta Lake</sub> &nbsp; <img src="https://api.iconify.design/thesvg-color/apache-parquet.svg" height="14" alt="Parquet"/> <sub>Parquet</sub> &nbsp; <img src="https://api.iconify.design/devicon/duckdb.svg" height="14" alt="DuckDB"/> <sub>DuckDB</sub> |
+| <sub><b>Governance</b></sub> | <img src="https://api.iconify.design/iconmind/key-vault-duotone-bold.svg?color=%230078D4" height="14" alt="Key Vault"/> <sub>Key Vault</sub> &nbsp; <img src="https://api.iconify.design/selfhst/microsoft-entra-id.svg" height="14" alt="Entra ID"/> <sub>Entra ID</sub> &nbsp; <img src="https://api.iconify.design/fluent/shield-lock-24-filled.svg?color=%23117865" height="14" alt="RLS / RBAC"/> <sub>RLS / RBAC</sub> &nbsp; <img src="https://api.iconify.design/thesvg-color/microsoft-purview.svg" height="14" alt="Purview"/> <sub>Purview</sub> |
+| <sub><b>DataOps</b></sub> | <img src="https://api.iconify.design/logos/git-icon.svg" height="14" alt="Git"/> <sub>Git</sub> &nbsp; <img src="https://api.iconify.design/logos/github-actions.svg" height="14" alt="GitHub Actions"/> <sub>GitHub Actions</sub> &nbsp; <img src="https://api.iconify.design/devicon/azuredevops.svg" height="14" alt="Azure DevOps"/> <sub>Azure DevOps</sub> &nbsp; <img src="https://api.iconify.design/logos/terraform-icon.svg" height="14" alt="Terraform"/> <sub>Terraform</sub> |
+| <sub><b>Also</b></sub> | <img src="https://api.iconify.design/logos/microsoft-azure.svg" height="14" alt="Azure"/> <sub>Azure</sub> &nbsp; <img src="https://api.iconify.design/logos/databricks.svg" height="14" alt="Databricks"/> <sub>Databricks</sub> &nbsp; <img src="https://api.iconify.design/logos/google-cloud.svg" height="14" alt="GCP"/> <sub>GCP</sub> &nbsp; <img src="https://api.iconify.design/logos/aws.svg" height="14" alt="AWS"/> <sub>AWS</sub> &nbsp; <img src="https://api.iconify.design/logos/tableau-icon.svg" height="14" alt="Tableau"/> <sub>Tableau</sub> &nbsp; <img src="https://api.iconify.design/logos/jira.svg" height="14" alt="Jira"/> <sub>Jira</sub> |
 
 #  
 <br>
@@ -93,10 +47,6 @@
 &nbsp;***Always open to new connections and opportunities.***\
 &nbsp;Feel free to reach out:
 
-<table><tr>
-<td align="center" width="110"><a href="https://mail.google.com/mail/?view=cm&fs=1&to=lucaswallbruno@gmail.com"><img src="https://api.iconify.design/logos/google-gmail.svg" width="36" height="36" alt="Email"/><br><sub><b>Email</b></sub></a></td>
-<td align="center" width="110"><a href="https://www.linkedin.com/in/lucas-wall1/"><img src="https://api.iconify.design/logos/linkedin-icon.svg" width="36" height="36" alt="LinkedIn"/><br><sub><b>LinkedIn</b></sub></a></td>
-<td align="center" width="110"><a href="https://api.whatsapp.com/send/?phone=556182082144&text=Hi+Lucas%2C+I+found+your+GitHub+and+would+like+to+talk+about+data+engineering.&type=phone_number&app_absent=0"><img src="https://api.iconify.design/logos/whatsapp-icon.svg" width="36" height="36" alt="WhatsApp"/><br><sub><b>WhatsApp</b></sub></a></td>
-</tr></table>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lucaswallbruno@gmail.com"><img src="https://api.iconify.design/logos/google-gmail.svg" height="16" alt="Email"/> <sub>Email</sub></a> &nbsp; <a href="https://www.linkedin.com/in/lucas-wall1/"><img src="https://api.iconify.design/logos/linkedin-icon.svg" height="16" alt="LinkedIn"/> <sub>LinkedIn</sub></a> &nbsp; <a href="https://api.whatsapp.com/send/?phone=556182082144&text=Hi+Lucas%2C+I+found+your+GitHub+and+would+like+to+talk+about+data+engineering.&type=phone_number&app_absent=0"><img src="https://api.iconify.design/logos/whatsapp-icon.svg" height="16" alt="WhatsApp"/> <sub>WhatsApp</sub></a>
 <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=lucas-wall.lucas-wall&"/>
